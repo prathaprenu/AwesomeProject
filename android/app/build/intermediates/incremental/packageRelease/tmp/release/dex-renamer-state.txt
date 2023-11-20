@@ -1,0 +1,4 @@
+#Fri Nov 17 17:43:11 IST 2023
+base.0=/home/test/Home/web/workspace/prathap/AwesomeProject/android/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
